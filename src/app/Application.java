@@ -10,7 +10,7 @@ public class Application {
         //////////////////////////////////////////////////////////////////////////////////
         Chien chien1 = new Chien("Pluto", 12);
         Chien chien2 = new Chien("Droopy",14);
-        Chien chien3 = new Chien("Scooby Doo", 8);
+        Chien chien3 = new Chien("Scooby Doo",10);
 
         //////////////////////////////////////////////////////////////////////////////////
         // Affichage de chaque chien
