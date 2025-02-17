@@ -3,7 +3,7 @@ package models;
 public class Chien {
 
     private static String nom;
-    private int age = 10
+    private int age;
 
     public Chien(String nomDuChien, int ageDuChien) {
         this.nom = nomDuChien;
