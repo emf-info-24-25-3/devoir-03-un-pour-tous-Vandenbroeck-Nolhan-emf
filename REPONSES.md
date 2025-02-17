@@ -14,4 +14,4 @@ la classe avec le nom du chien est static donc elle ne change pas et est pareil 
 4. Observez avec attention les lignes N°20 à N°26 du main() et réfléchissez : par quel miracle le chien3 à la ligne N°26 s'affiche correctement ?
    Répondez à cette question en expliquant avec précision ce qui se passe et pourquoi.
 
-Grâce à la méthode toString().
+Grâce à la méthode toString() ( qui est par défault pour le chien3)
